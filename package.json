@@ -1,6 +1,6 @@
 {
-  "name": "swagger-routes",
-  "version": "1.7.2",
+  "name": "@juniusbbd/swagger-routes",
+  "version": "1.0.0",
   "description": "Generate Express or Restify route handlers from a Swagger specification",
   "main": "src/index",
   "keywords": [
@@ -54,6 +54,6 @@
     "mocha": "^2.3.4",
     "multer": "^1.1.0",
     "on-finished": "^2.3.0",
-    "restify": "^4.0.4"
+    "restify": "^9"
   }
 }
